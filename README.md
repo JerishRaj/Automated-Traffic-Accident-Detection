@@ -87,24 +87,24 @@ accident-detection/
 
 ## 📷 Screenshots
 
-### 🏠 Home Page
-![Home Page](Screenshots/application-dashboard.png)
+### 🏠 Home Page  
+![Home Page](screenshots/application-dashboard.png)
 
+### 👤 User Dashboard  
+![Dashboard](screenshots/users-dashboard.png)
 
-### 👤 User Dashboard
-![Dashboard](Screenshots/users-dashboard.png)
+### ⚙️ Admin Dashboard  
+![Dashboard](screenshots/admin-dashboard.png)
 
-### ⚙️ Admin Dashboard
-![Dashboard](Screenshots/admin-dashboard.png)
+### 📁 Detection History  
+![Detection History](screenshots/detection-history.png)
 
-### 🛑 Detection History
-![Detection History](Screenshots/detection-history.png)
+### 📊 Detection Statistics  
+![Detection Statistics](screenshots/detection-statistics.png)
 
-### 📊 Detection Statistics
-![Detection Statistics](Screenshots/detection-statistics.png)
+### 📧 Email Notification  
+![Output](screenshots/email-output.png)
 
-### 📧 Email Notification
-![Output](Screenshots/email-output.png)
 
 
 ✅ Future Enhancements
