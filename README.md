@@ -90,6 +90,7 @@ accident-detection/
 ### 🏠 Home Page
 ![Home Page](Screenshots/application-dashboard.png)
 
+
 ### 👤 User Dashboard
 ![Dashboard](Screenshots/users-dashboard.png)
 
